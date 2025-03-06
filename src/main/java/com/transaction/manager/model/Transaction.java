@@ -1,4 +1,4 @@
-package com.ecomm.shop.model.transaction;
+package com.transaction.manager.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

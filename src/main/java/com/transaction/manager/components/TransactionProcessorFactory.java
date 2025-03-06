@@ -1,9 +1,9 @@
 package com.ecomm.shop.components;
 
-import com.ecomm.shop.model.transaction.TransactionType;
-import com.ecomm.shop.service.transactionProcessor.DepositTransactionProcessor;
-import com.ecomm.shop.service.transactionProcessor.TransactionProcessor;
-import com.ecomm.shop.service.transactionProcessor.WithdrawalTransactionProcessor;
+import com.transaction.manager.model.TransactionType;
+import com.transaction.manager.service.DepositTransactionProcessor;
+import com.transaction.manager.service.TransactionProcessor;
+import com.transaction.manager.service.WithdrawalTransactionProcessor;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 

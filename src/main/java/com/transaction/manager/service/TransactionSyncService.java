@@ -1,7 +1,7 @@
-package com.ecomm.shop.service.transactionProcessor;
+package com.transaction.manager.service;
 
 import com.ecomm.shop.components.TransactionProcessorFactory;
-import com.ecomm.shop.model.transaction.Transaction;
+import com.transaction.manager.model.Transaction;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

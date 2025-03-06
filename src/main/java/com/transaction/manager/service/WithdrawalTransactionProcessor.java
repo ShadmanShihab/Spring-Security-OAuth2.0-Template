@@ -1,6 +1,6 @@
-package com.ecomm.shop.service.transactionProcessor;
+package com.transaction.manager.service;
 
-import com.ecomm.shop.model.transaction.Transaction;
+import com.transaction.manager.model.Transaction;
 
 public class WithdrawalTransactionProcessor implements TransactionProcessor{
 

@@ -1,4 +1,4 @@
-package com.ecomm.shop.model.transaction;
+package com.transaction.manager.model;
 
 public enum TransactionType {
     DEPOSIT, WITHDRAWAL, BALANCE_TRANSFER;
